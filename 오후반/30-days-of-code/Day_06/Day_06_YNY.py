@@ -12,4 +12,3 @@ for i in range (n):
             q_even.append(q[j])
     print("".join(q_odd) ,"".join(q_even))
     q_odd,q_even=[],[]
-
